@@ -6,7 +6,7 @@ Contate-me no <a href="https://www.linkedin.com/in/jonatansaraiva/">Linkedin</a>
 - 🌱 Estudando atualmente: Arquitetura de soluções na FIAP
 
 <div align="center">
-  <a href="https://github.com/diogokn">
+  <a href="https://github.com/jonatanc">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jonatanc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanc&layout=compact&langs_count=7&theme=dark"/>
 </div>
